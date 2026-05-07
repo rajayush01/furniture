@@ -132,7 +132,7 @@ export default function WhyUs() {
       <div className="max-w-7xl mx-auto">
         {/* Header */}
         <div className="text-center mb-20" ref={titleRef}>
-          <div className="reveal">
+          <div className="">
             <span
               className="text-xs tracking-widest uppercase block mb-4"
               style={{ color: 'var(--oak)', fontFamily: 'Jost, sans-serif', letterSpacing: '0.25em' }}
